@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
+<!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html lang="en"><!-- InstanceBegin template="/Templates/english_main.dwt" codeOutsideHTMLIsLocked="false" --> <!--<![endif]-->
+
+<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1" />
+
+<head>
+
+	<!-- Basic Page Needs
+  ================================================== -->
+	<meta charset="utf-8">
+	<!-- InstanceBeginEditable name="doctitle" -->
+	<title>xxxxxxxxxx | Cthulhu Divers</title>
+	<!-- InstanceEndEditable -->
+	<meta name="robots" content="INDEX,FOLLOW" />
+	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+  
+	<!-- Mobile Specific Metas
+  ================================================== -->
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+	<!-- CSS
+  ================================================== -->
+	<link rel="stylesheet" href="../css/base.css">
+	<link rel="stylesheet" href="../css/skeleton.css">
+	<link rel="stylesheet" href="../css/layout.css">
+	<link rel="stylesheet" href="../css/lightbox.css">
+	<link rel="stylesheet" href="../css/wysiwyg.css">
+	<link rel="stylesheet" href="../css/hosken.css">
+
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,700,300,400' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700' rel='stylesheet' type='text/css'>
+	<!--[if lt IE 9]>
+		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+	<!-- Favicons
+	================================================== -->
+	<link rel="shortcut icon" href="../img/Cthulhu_Logo01inv.ico">
+	<link rel="apple-touch-icon" href="../img/favicon/apple-touch-icon.html">
+	<link rel="apple-touch-icon" sizes="72x72" href="../img/favicon/apple-touch-icon-72x72.html">
+	<link rel="apple-touch-icon" sizes="114x114" href="../img/favicon/apple-touch-icon-114x114.html">
+	
+	
+	<!-- JS -->
+	<script type="text/javascript" src="../js/jquery.js"></script>
+	<script type="text/javascript" src="../js/js.ajax.js"></script>
+  <script type="text/javascript" src="../js/js.effects.js"></script>
+  <script type="text/javascript" src="../js/js.functions.js"></script>
+  <script type="text/javascript" src="../js/js.validate.js"></script>
+  <script type="text/javascript" src="../js/lib/iepngfix_tilebg.js"></script>
+  <script type="text/javascript" src="../js/lib/jquery-ui.js"></script>
+  <script type="text/javascript" src="../js/lib/jquery.color.js"></script>
+  <script type="text/javascript" src="../js/lib/jquery.easing.js"></script>
+  <script type="text/javascript" src="../js/lib/jquery.selectric.js"></script>
+  <script type="text/javascript" src="../js/lib/js.waitforimages.js"></script>
+  <script type="text/javascript" src="../js/lib/jssor.core.js"></script>
+  <script type="text/javascript" src="../js/lib/jssor.slider.min.js"></script>
+  <script type="text/javascript" src="../js/lib/jssor.utils.js"></script>
+  <script type="text/javascript" src="../js/lib/lightbox.js"></script>
+
+<!-- InstanceBeginEditable name="head" -->
+
+<!-- InstanceEndEditable -->	
+	
+</head>
+<body>
+	<!-- Primary Page Layout
+	================================================== -->
+	<div id="full-container">
+		<div class="mobile-menu">
+      <a href="../index.html"><div class="mobile-link">HOME</div></a>    
+      <a href="../certified-scuba-diving-cancun.html"><div class="mobile-link">CERTIFIED DIVERS</div></a>
+      <a href="../padi-diving-courses-cancun.html"><div class="mobile-link">SCUBA COURSES</div></a>
+      <a href="../cenote-angelita.html"><div class="mobile-link">THE 7 BEST CENOTES</div></a>
+      <a href="../contact-us.html"><div class="mobile-link">CONTACT</div></a>
+      <br /><br /><br />
+      <br /><br /><br />	
+		</div>
+		<div class="menu">
+			<div class="container">
+				<div class="sixteen columns">
+					<div class="logo">
+          	<a href="../index.html"><img src="../img/cthulhu_logo01.png"></a>
+          </div>
+          <div class="menu-list desktop-only">
+          	<div class="menu-link">
+            	<a href="../index.html"><div class="menu-block">HOME</div></a>
+             	<div class="link-line" ></div>
+            </div>
+          	<div class="menu-link">
+            	<a href="../certified-scuba-diving-cancun.html"><div class="menu-block">CERTIFIED DIVERS</div></a>
+             	<div class="link-line" ></div>
+            </div>
+          	<div class="menu-link">
+            	<a href="../padi-diving-courses-cancun.html"><div class="menu-block">SCUBA COURSES</div></a>
+             	<div class="link-line" ></div>
+            </div>
+          	<div class="menu-link">
+            	<a href="../cenote-angelita.html"><div class="menu-block">THE 7 BEST CENOTES</div></a>
+             	<div class="link-line" ></div>
+            </div>
+          	<div class="menu-link">
+            	<a href="../contact-us.html"><div class="menu-block">CONTACT</div></a>
+             	<div class="link-line" ></div>
+            </div>
+            <a href="https://www.padi.com/" target="_blank" style="margin-left:15px">
+            	<img src="../img/padi_instructors-available.png" style="margin-top:5px" />
+            </a>
+          </div>
+        </div>
+      </div>
+      
+      <a href="javascript:;" onClick="$('.mobile-menu').addClass('active');$('body').addClass('active');">
+      	<img src="../img/layout/menu.png" class="mobile-only menu-button">
+     	</a>      
+		</div>
+    
+		<div class="menu-height"></div>
+
+<!-- InstanceBeginEditable name="Header" -->
+		<div class="content-image big-image" style="background-image:url(../img/top-course_reactivate.jpg)"></div>
+<!-- InstanceEndEditable -->
+
+    <div class="main-content">
+      <div class="container">
+<!-- InstanceBeginEditable name="main-content" -->      
+        <div class="sixteen columns">
+          <div class="wysiwyg-text-align-center">
+          	<span class="wysiwyg-font-size-x-large">XXXXXXXXXXXXXXXX</span>
+            <br />
+            <span class="wysiwyg-font-size-large">XXXXXXXXXXXXXXXXXX</span>
+          </div>
+          <div class="wysiwyg-text-align-center">
+            <br />
+						<iframe width="560" height="315" src="XXXXXXXXXXXXXXXXXXX" frameborder="0" allowfullscreen></iframe>						
+          	<br /><br />
+
+          	<span class="wysiwyg-font-size-large">Who should take this course?</span>
+          	<br />
+          	<p>The PADI Scuba Diver course is a subset of the PADI Open Water Diver course. If you’re short on time but really want to become a diver, the PADI Scuba Diver rating might be right for you - particularly if you expect to go scuba diving primarily with a dive guide. This course is an intermediate step for earning an Open Water Diver certification, if that’s your ultimate goal.  
+PADI Scuba Divers are qualified to:</p>
+						<ul>
+            	<li class="points">Dive under the direct supervision of a PADI Professional to a maximum depth of 12 metres/40 feet.</li>
+              <li class="points">Obtain air fills, rent or purchase scuba equipment and participate in dive activities as long as properly supervised.</li>
+              <li class="points">Continue dive training by completing the PADI Open Water Diver certification and taking certain specialty diver courses.
+              </li>
+            </ul>
+            <p>To enroll in a PADI Scuba Diver course (or Junior Scuba Diver course), you must be 10 years old or older. You need adequate swimming skills and need to be in good physical health. No prior experience with scuba diving is required, but you can try it first through the <a href="../padi-discover-scuba-diving-dsd.html">Discover Scuba Diving</a> program.</p>
+            <br />
+            
+            <span class="wysiwyg-font-size-large">What will I learn?</span>
+            <ul>The PADI Scuba Diver course consists of three main phases:
+            	<br /><br />
+            	<li class="points">Knowledge Development (online, independent study or in a classroom) to understand basic principles of scuba diving – just the first three of five sections of the Open Water Diver course.</li>
+              <li class="points">Confined Water Dives to learn basic scuba skills – just the first three of five dives of the Open Water Diver course</li>
+              <li class="points">Open Water Dives to use your skills and explore – just two of four dives of the Open Water Diver course.</li>
+            </ul>            
+            <br />
+            
+            <span class="wysiwyg-font-size-large">How do I start?</span>
+            <ul>
+              <li class="points"><a href="../contact-us.html">Contact us</a> to sign up for <a href="#">Open Water Diver Online</a> and start learning right away.</li>
+              <li class="points">Download a <a href="https://www.padi.com/documents/padi-courses/10063_medical_questionnaire_ff.pdf_new%20form.pdf" target="_blank">Medical Statement and Questionnaire</a>.</li>
+            </ul>            
+          </div>
+          <br />
+        </div>
+        <br class="clearme" />
+      </div>
+    </div>
+<!-- InstanceEndEditable -->    
+    <div id="footer-height"></div>  
+	</div>
+  
+  <div id="footer">
+    <div class="container">
+      <div class="sixteen columns">
+        <div class="footer-1 footer-col">
+          <h3>Info</h3>
+         	<div><a href="../certified-scuba-diving-cancun.html">Certified Divers</a></div>          
+          <div><a href="../padi-diving-courses-cancun.html">Scuba Courses</a></div>
+          <div><a href="../contact-us.html">Contact</a></div>
+        </div>
+                
+				<div class="footer-2 footer-col" align="center">
+          <div style="position: relative; height: 300px; overflow: hidden; border-radius: 50%; 
+          border: 10px solid #f8f8f8;" class="footer-map">
+          	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3720.675989038479!2d-86.83311068506507!3d21.165288985924587!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xeb41ab3bcc6a0732!2sCthulhu+Divers!5e0!3m2!1sen!2smx!4v1505342350790" width="100%" height="500" frameborder="0" style="border:0; margin-top: -100px;">
+            </iframe>
+          </div>
+        </div>
+              
+        <div class="footer-3 footer-col">
+          Office Hours: 08:00 - 19:00
+          <br /><br />
+          Dpto 1, 42 Calle Punta Allen<br />
+          Super Manzana 24<br />
+          Cancun<br />
+          77509<br />
+          Mexico <br />
+          <br />
+          Office Tel: +52 1 998 303 1727<br />
+        </div>
+        <br class="clearme" />
+      </div>
+    </div>
+  </div>
+<!-- End Document
+================================================== -->
+</body>
+<!-- InstanceEnd --></html>

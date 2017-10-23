@@ -1,0 +1,83 @@
+tr:first-child {
+	margin-right: 65px;
+}
+
+th, td {
+  padding-left: 65px;
+}
+
+.miniheader {
+	font-weight: bold;
+	padding-bottom: 15px;
+}
+
+.clearme {
+	clear: both;
+}
+
+.2bullet {
+	width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.points {
+	text-align:left;
+	line-height: 27px;
+}
+
+.vidfit {
+	width: 100vw; 
+  height: 56.25vw; /* 100/56.25 = 560/315 = 1.778 */
+	max-width: 560px;
+	max-height: 315px;
+}
+
+tr:nth-child(even) {
+	background: #c5d9f1
+}
+tr:nth-child(odd) {
+	background: #FFF
+}
+
+.cenotes-list a {
+	padding-left:3px;
+}
+
+.cenote-subheading {
+	padding-bottom:5px;
+}
+
+.tosh p {
+	margin-bottom:-10px;
+}
+
+iframe {
+  width: 100%;
+}
+
+.aspect-ratio {
+  position: relative;
+  width: 100%;
+  height: 0;
+  padding-bottom: 51%;
+}
+
+.aspect-ratio iframe {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  left: 0; top: 0;
+}
+
+.menu-link,
+.menu-link > a,
+.menu-block,
+.menu-list,
+.desktop-only {
+	text-decoration: none;
+}
+
+.no-deco {
+	text-decoration: none;
+}

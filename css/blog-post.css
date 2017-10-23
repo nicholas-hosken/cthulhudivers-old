@@ -1,0 +1,22 @@
+/*!
+ * Start Bootstrap - Blog Post (http://startbootstrap.com/template-overviews/blog-post)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-blog-post/blob/master/LICENSE)
+ */
+.menu-link > a {
+	text-decoration: none;
+}
+
+.no-marg {
+	margin: 0px;
+}
+
+.btn-blog-search {
+	margin: 4px 0px 0px 1px;
+}
+
+
+@media (min-width: 992px) {
+    body {
+    }
+}

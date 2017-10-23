@@ -1,0 +1,242 @@
+/*
+* Skeleton V1.2
+* Copyright 2011, Dave Gamache
+* www.getskeleton.com
+* Free to use under the MIT license.
+* http://www.opensource.org/licenses/mit-license.php
+* 6/20/2012
+*/
+
+
+/* Table of Content
+==================================================
+	#Reset & Basics
+	#Basic Styles
+	#Site Styles
+	#Typography
+	#Links
+	#Lists
+	#Images
+	#Buttons
+	#Forms
+	#Misc */
+
+@import "fx.css.css";
+
+/* #Reset & Basics (Inspired by E. Meyers)
+================================================== */
+	html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+		margin: 0;
+		padding: 0;
+		border: 0;
+		font: inherit;
+		vertical-align: baseline; }
+	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+		display: block; }
+	body {
+		line-height: 1; }
+	blockquote, q {
+		quotes: none; }
+	blockquote:before, blockquote:after,
+	q:before, q:after {
+		content: '';
+		content: none; }
+	table {
+		border-collapse: collapse;
+		border-spacing: 0; }
+
+	img { max-width: 100%; }
+	b,strong { font-weight: 900; }
+
+/* #Basic Styles
+================================================== */
+
+
+
+/* #Typography
+================================================== */
+	h1, h2, h3, h4, h5, h6 {
+		color: #555;
+		font-family: 'open sans condensed', 'open sans', sans serif;
+		font-weight: 900; 
+		position: relative;
+	}
+	h1 a, h2 a, h3 a, h4 a, h5 a, h6 a { font-weight: inherit; }
+	h1 { font-size: 60px; line-height: 70px; margin-bottom: 50px; letter-spacing: -2px; }
+	h2 { font-size: 27px; line-height: 40px; margin-bottom: 10px; }
+	h3 { font-size: 24px; line-height: 34px; margin-bottom: 8px; }
+	h4 { font-size: 21px; line-height: 30px; margin-bottom: 4px; }
+	h5 { font-size: 17px; line-height: 24px; }
+	h6 { font-size: 14px; line-height: 21px; }
+	.subheader { color: #777; }
+	
+	h1:after {
+		content: "";
+		display: block;
+		position: absolute;
+		left: 50%;
+		width: 60px;
+		margin-top: 24px;
+		margin-left: -30px;
+		border-top: 2px solid #444;
+	}
+
+	p { margin: 0 0 20px 0; }
+	p img { margin: 0; }
+	p.lead { font-size: 21px; line-height: 27px; color: #777;  }
+
+	em { font-style: italic; }
+	strong { font-weight: bold;  }
+
+/*	Blockquotes  */
+	blockquote, blockquote p { font-size: 17px; line-height: 24px; color: #777; font-style: italic; }
+	blockquote { margin: 0 0 20px; padding: 9px 20px 0 19px; border-left: 1px solid #ddd; }
+	blockquote cite { display: block; font-size: 12px; color: #555; }
+	blockquote cite:before { content: "\2014 \0020"; }
+	blockquote cite a, blockquote cite a:visited, blockquote cite a:visited { color: #555; }
+
+	hr { border: solid #e2e2e2; border-width: 1px 0 0; clear: both; margin: 20px 0 20px; height: 0; }
+
+
+/* #Links
+================================================== */
+	a, a:visited { transition: 300ms; color: #0084ff; text-decoration: none; outline: 0; }
+	a:hover, a:focus { color: #f43400; }
+	p a, p a:visited { line-height: inherit; }
+	
+
+/* #Lists
+================================================== */
+	ul, ol { margin-bottom: 20px; }
+	
+	ul { margin-left: 40px; list-style: circle outside; }
+	ol { list-style: decimal outside; }
+	
+	
+	li { line-height: 18px; margin-bottom: 12px; padding-left: 20px; }
+	ul.large li { line-height: 21px; }
+	li p { line-height: 21px; }
+
+/* #Images
+================================================== */
+
+	img.scale-with-grid {
+		max-width: 100%;
+		height: auto; }
+
+
+/* #Buttons
+================================================== */
+
+	.button,
+	button,
+	input[type="submit"],
+	input[type="reset"],
+	input[type="button"] {
+		background: #222;
+		color: #fff !important;
+		font-family: 'open sans', gill sans, arial, sans serif;
+		font-size: 16px;
+		letter-spacing: 0px !important;
+		font-weight: 400;
+		border: 4px solid #222;
+		padding: 10px 10px;
+		text-align: center;
+		min-width: 150px;
+		outline: none;
+		cursor: pointer;
+		 border-radius:3px;
+		 -moz-border-radius:3px;
+		 -webkit-border-radius:3px;
+		 -o-border-radius:3px;
+		 transition: 300ms;
+	}
+	.button:hover,
+	button:hover,
+	input[type="submit"]:hover,
+	input[type="reset"]:hover,
+	input[type="button"]:hover {
+		background: #fff;
+		padding-left: 30px;
+		color: #222 !important;
+	}
+	.button:active,
+	button:active,
+	input[type="submit"]:active,
+	input[type="reset"]:active,
+	input[type="button"]:active {
+	
+	}
+
+	.button.full-width,
+	button.full-width,
+	input[type="submit"].full-width,
+	input[type="reset"].full-width,
+	input[type="button"].full-width {
+		width: 100%;
+		padding-left: 0 !important;
+		padding-right: 0 !important;
+		text-align: center; }
+
+	/* Fix for odd Mozilla border & padding issues */
+	button::-moz-focus-inner,
+	input::-moz-focus-inner {
+    border: 0;
+    padding: 0;
+	}
+
+
+/* #Forms
+================================================== */
+
+	
+	input[type="text"],
+	input[type="password"],
+	input[type="email"],
+	textarea,
+	select {
+		transition: 300ms;
+		border: 1px solid #ddd;
+		padding: 8px 8px;
+		outline: none;
+		-moz-border-radius: 1px;
+		-webkit-border-radius: 1px;
+		border-radius: 1px;
+		font-size: 17px;
+		font-weight: 100;
+		font-family: 'open sans', gill sans, arial, sans serif;
+		color: #777;
+		margin: 0;
+		min-width: 300px;
+		width: 100%;
+		max-width: 100%;
+		display: block;
+		box-sizing: border-box;
+		background: #eee; }
+	select {
+		padding: 0; }
+	input[type="text"]:focus,
+	input[type="password"]:focus,
+	input[type="email"]:focus,
+	textarea:focus {
+		border: 1px solid #ccc;
+		background: #fafafa;
+ 		color: #777;
+ 		-moz-box-shadow: 0 0 3px rgba(0,0,0,.2);
+		-webkit-box-shadow: 0 0 3px rgba(0,0,0,.2);
+		box-shadow:  0 0 3px rgba(0,0,0,.2); }
+	textarea {
+		min-height: 100px; }
+	label {
+		padding-left: 10px;
+		padding-right: 30px;
+	}	
+
+/* #Misc
+================================================== */
+	.remove-bottom { margin-bottom: 0 !important; }
+	.half-bottom { margin-bottom: 10px !important; }
+	.add-bottom { margin-bottom: 20px !important; }
+
+	.float { float: left; }
+	.float-right { float: right; }

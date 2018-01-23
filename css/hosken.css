@@ -81,3 +81,11 @@ iframe {
 .no-deco {
 	text-decoration: none;
 }
+
+.subspace {
+	margin-top: 15px;
+}
+
+.subspace2 {
+	margin-bottom: -150px;
+}

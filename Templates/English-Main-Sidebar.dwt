@@ -1,4 +1,4 @@
-<!-- InstanceBegin template="/Templates/English-Main-Sidebar.dwt" codeOutsideHTMLIsLocked="false" -->
+
 <!DOCTYPE html>
 <!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
 <!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
@@ -10,10 +10,9 @@
 	<!-- Basic Page Needs
   ================================================== -->
 	<meta charset="utf-8">
-	<!-- InstanceBeginEditable name="doctitle" -->
-	<title>Whale Sharks | Cthulhu Divers</title>
-  <meta name="description" content="Book your place on our small group whale shark tour where you’ll get to swim with the largest fish in the ocean. Departing from Cancún and Isla Mujeres." />
-	<!-- InstanceEndEditable -->
+	<!-- TemplateBeginEditable name="doctitle" -->
+	<title>Xxxxxxx | Cthulhu Divers</title>
+	<!-- TemplateEndEditable -->
 	<meta name="robots" content="INDEX,FOLLOW" />
 	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
   
@@ -23,12 +22,12 @@
 
 	<!-- CSS
   ================================================== -->
-	<link rel="stylesheet" href="css/base.css">
-	<link rel="stylesheet" href="css/skeleton.css">
-	<link rel="stylesheet" href="css/layout.css">
-	<link rel="stylesheet" href="css/lightbox.css">
-	<link rel="stylesheet" href="css/wysiwyg.css">
-	<link rel="stylesheet" href="css/hosken.css">
+	<link rel="stylesheet" href="../css/base.css">
+	<link rel="stylesheet" href="../css/skeleton.css">
+	<link rel="stylesheet" href="../css/layout.css">
+	<link rel="stylesheet" href="../css/lightbox.css">
+	<link rel="stylesheet" href="../css/wysiwyg.css">
+	<link rel="stylesheet" href="../css/hosken.css">
 
 	<link href='//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,700,300,400' rel='stylesheet' type='text/css'>
 	<link href='//fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700' rel='stylesheet' type='text/css'>
@@ -38,7 +37,7 @@
 
 	<!-- Favicons
 	================================================== -->
-	<link rel="shortcut icon" href="../img/Cthulhu_Logo01inv.ico type="image/x-icon">
+	<link rel="shortcut icon" href="../img/Cthulhu_Logo01inv.ico" type="image/x-icon">
   <link rel="apple-touch-icon" href="img/favicon/apple-touch-icon.png" />
   <link rel="apple-touch-icon" sizes="57x57" href="img/favicon/apple-touch-icon-57x57.png" />
   <link rel="apple-touch-icon" sizes="72x72" href="img/favicon/apple-touch-icon-72x72.png" />
@@ -51,25 +50,25 @@
 	
 	
 	<!-- JS -->
-	<script type="text/javascript" src="js/jquery.js"></script>
-	<script type="text/javascript" src="js/js.ajax.js"></script>
-  <script type="text/javascript" src="js/js.effects.js"></script>
-  <script type="text/javascript" src="js/js.functions.js"></script>
-  <script type="text/javascript" src="js/js.validate.js"></script>
-  <script type="text/javascript" src="js/lib/iepngfix_tilebg.js"></script>
-  <script type="text/javascript" src="js/lib/jquery-ui.js"></script>
-  <script type="text/javascript" src="js/lib/jquery.color.js"></script>
-  <script type="text/javascript" src="js/lib/jquery.easing.js"></script>
-  <script type="text/javascript" src="js/lib/jquery.selectric.js"></script>
-  <script type="text/javascript" src="js/lib/js.waitforimages.js"></script>
-  <script type="text/javascript" src="js/lib/jssor.core.js"></script>
-  <script type="text/javascript" src="js/lib/jssor.slider.min.js"></script>
-  <script type="text/javascript" src="js/lib/jssor.utils.js"></script>
-  <script type="text/javascript" src="js/lib/lightbox.js"></script>
+	<script type="text/javascript" src="../js/jquery.js"></script>
+	<script type="text/javascript" src="../js/js.ajax.js"></script>
+  <script type="text/javascript" src="../js/js.effects.js"></script>
+  <script type="text/javascript" src="../js/js.functions.js"></script>
+  <script type="text/javascript" src="../js/js.validate.js"></script>
+  <script type="text/javascript" src="../js/lib/iepngfix_tilebg.js"></script>
+  <script type="text/javascript" src="../js/lib/jquery-ui.js"></script>
+  <script type="text/javascript" src="../js/lib/jquery.color.js"></script>
+  <script type="text/javascript" src="../js/lib/jquery.easing.js"></script>
+  <script type="text/javascript" src="../js/lib/jquery.selectric.js"></script>
+  <script type="text/javascript" src="../js/lib/js.waitforimages.js"></script>
+  <script type="text/javascript" src="../js/lib/jssor.core.js"></script>
+  <script type="text/javascript" src="../js/lib/jssor.slider.min.js"></script>
+  <script type="text/javascript" src="../js/lib/jssor.utils.js"></script>
+  <script type="text/javascript" src="../js/lib/lightbox.js"></script>
 
-<!-- InstanceBeginEditable name="head" -->
+<!-- TemplateBeginEditable name="head" -->
 	<link rel="alternate" href="https://cthulhudivers.com/" hreflang="en-us" />
-<!-- InstanceEndEditable -->
+<!-- TemplateEndEditable -->
 
 </head>
 <body>
@@ -78,10 +77,12 @@
 	<div id="full-container">
 		<div class="mobile-menu">
       <a href="https://cthulhudivers.com/"><div class="mobile-link">HOME</div></a>    
-      <a href="certified-scuba-diving-cancun.html"><div class="mobile-link">CERTIFIED DIVERS</div></a>
-      <a href="padi-diving-courses-cancun.html"><div class="mobile-link">SCUBA COURSES</div></a>
-      <a href="cenote-angelita.html"><div class="mobile-link">THE 7 BEST CENOTES</div></a>
-      <a href="contact-us.html"><div class="mobile-link">CONTACT</div></a>
+      <a href="../certified-scuba-diving-cancun.html"><div class="mobile-link">CERTIFIED DIVERS</div></a>
+      <a href="../padi-diving-courses-cancun.html"><div class="mobile-link">SCUBA COURSES</div></a>
+      <a href="../bubble-blog/cancun-best-dive-sites-for-beginners-and-the-refresher-course.html">
+      	<div class="mobile-link">BUBBLE BLOG</div>
+      </a>
+      <a href="../contact-us.html"><div class="mobile-link">CONTACT</div></a>
       <br /><br /><br />
       <br /><br /><br />	
 		</div>
@@ -89,7 +90,7 @@
 			<div class="container">
 				<div class="sixteen columns">
 					<div class="logo">
-          	<a href="https://cthulhudivers.com/"><img src="img/cthulhu_logo01.png"></a>
+          	<a href="https://cthulhudivers.com/"><img src="../img/cthulhu_logo01.png"></a>
           </div>
           <div class="menu-list desktop-only">
           	<div class="menu-link">
@@ -97,66 +98,63 @@
              	<div class="link-line" ></div>
             </div>
           	<div class="menu-link">
-            	<a href="certified-scuba-diving-cancun.html"><div class="menu-block">CERTIFIED DIVERS</div></a>
+            	<a href="../certified-scuba-diving-cancun.html"><div class="menu-block">CERTIFIED DIVERS</div></a>
              	<div class="link-line" ></div>
             </div>
           	<div class="menu-link">
-            	<a href="padi-diving-courses-cancun.html"><div class="menu-block">SCUBA COURSES</div></a>
+            	<a href="../padi-diving-courses-cancun.html"><div class="menu-block">SCUBA COURSES</div></a>
              	<div class="link-line" ></div>
             </div>
           	<div class="menu-link">
-            	<a href="cenote-angelita.html"><div class="menu-block">THE 7 BEST CENOTES</div></a>
+            	<a href="../bubble-blog/cancun-best-dive-sites-for-beginners-and-the-refresher-course.html">
+              	<div class="menu-block">BUBBLE BLOG</div>	
+              </a>
              	<div class="link-line" ></div>
             </div>
           	<div class="menu-link">
-            	<a href="contact-us.html"><div class="menu-block">CONTACT</div></a>
+            	<a href="../contact.html"><div class="menu-block">CONTACT</div></a>
              	<div class="link-line" ></div>
             </div>
             <a href="https://www.padi.com/" target="_blank" style="margin-left:15px">
-            	<img src="img/padi_instructors-available.png" style="margin-top:5px" />
+            	<img src="../img/padi_instructors-available.png" style="margin-top:5px" />
             </a>
           </div>
         </div>
       </div>
       
       <a href="javascript:;" onClick="$('.mobile-menu').addClass('active');$('body').addClass('active');">
-      	<img src="img/layout/menu.png" class="mobile-only menu-button">
+      	<img src="../img/layout/menu.png" class="mobile-only menu-button">
      	</a>      
 		</div>
     
 		<div class="menu-height"></div>
 
-<!-- InstanceBeginEditable name="Header" -->
-		<div class="content-image big-image" style="background-image:url(img/top-whale_shark.jpg)" rel="top-whale_shark.jpg"></div>
-<!-- InstanceEndEditable -->
+<!-- TemplateBeginEditable name="Header" -->
+		<div class="content-image big-image" style="background-image:url(../img/mammals.jpg);" rel="img/mammals.jpg"></div>
+<!-- TemplateEndEditable -->
 
     <div class="main-content">
       <div class="container">
-<!-- InstanceBeginEditable name="main-content" -->      
-				<div class="sixteen columns">
-          <div class="wysiwyg-text-align-center">        	
+<!-- TemplateBeginEditable name="main-content" -->      
+        <div class="sixteen columns">
+          <div class="wysiwyg-text-align-center">
             <div class="col-template col-1a wysiwyg-text-align-center">
-              <div class="wysiwyg-text-align-center">
-                <span class="wysiwyg-font-size-x-large">Whale Shark Snorkeling</span>
-              </div>
-              <div class="wysiwyg-text-align-center">
-                <br />
-                <iframe class="vidfit" width="560" height="315" src="https://www.youtube.com/embed/vaB_oqi0NJE" 
-                frameborder="0" allowfullscreen>
-                </iframe>						
-                <p>Growing as large as 15m (50ft) in length, the whale shark is the largest known fish in the sea. These gentle giants are migratory filter feeders who follow upwellings of cold water rich in the plankton and nekton they need to sustain themselves. Annually, during our summer months, the waters just north east of Cancun and Isla Mujeres experience an extraordinarily large upwelling which is exceptionally rich in plankton and so it essentially becomes an all you can eat buffet for the sharks. This has resulted in the largest whale shark aggregation in the world, with as many as 400 having being spotted in one single day.</p>
-                <p>We invite you to join us this next whale shark season beginning in mid-May and ending in mid-September, when we will both entertain and educate you with a trip into their magical world followed by a short stop on the north shore beach of Isla Mujers for a small lunch.</p>
-                <p><strong>Please be aware that we are unable to guarantee a shark sighting on any of our tours as these are wild animals who are free to roam the ocean as they wish. As such, on the very rare occasion that we are unable to find any shark, please be aware that we are unable to offer any refunds.</strong></p>
-              </div>
-            </div>
+              <strong>
+                <span class="wysiwyg-font-size-medium">
+                  <span class="wysiwyg-font-size-x-large">XXXXXXXXXX</span>
+                  <br />
+                </span>
+              </strong>
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pellentesque, nunc at mollis dignissim, nunc arcu porta ligula, et tempus urna augue non ipsum. Maecenas lobortis efficitur massa id maximus. Nam malesuada maximus mauris in imperdiet. Maecenas convallis sapien et dapibus scelerisque. Vestibulum imperdiet, enim eu placerat cursus, dolor ipsum placerat neque, et venenatis lectus dolor quis leo. Donec pharetra, risus sodales gravida egestas, quam enim cursus libero, quis blandit lorem ipsum sit amet nisl. Nam nibh justo, varius ac pharetra vitae, egestas eget lacus. Donec aliquet, magna at commodo scelerisque, augue ligula condimentum orci, a elementum ipsum nisl id massa. Donec ut malesuada turpis, id volutpat augue. Donec non mauris fringilla, pulvinar nibh id, porttitor quam. Nam ut erat euismod, mollis lacus vel, ultrices felis. Mauris sed augue nec ex sollicitudin molestie.</p>
+          	</div>
           </div>
-<!-- InstanceEndEditable -->    
+<!-- TemplateEndEditable -->    
           <div class="col-template col-1b">
-<!-- InstanceBeginEditable name="Pricing" -->
+<!-- TemplateBeginEditable name="Pricing" -->
 						<br />
-            <span class="wysiwyg-font-size-large">From:<br /><b><span class="wysiwyg-font-size-x-large">$160</span> USD</b></span>
+            <span class="wysiwyg-font-size-large">From:<br /><b><span class="wysiwyg-font-size-x-large">$999</span> USD</b></span>
             <br />
-<!-- InstanceEndEditable -->
+<!-- TemplateEndEditable -->
           	<br />
             <span class="wysiwyg-font-size-medium"><b>ACTIVITIES:</b><br /></span>
             <span>
@@ -169,8 +167,8 @@
               <a href="top-snorkeling-tours-cancun.html">SNORKELING DAY TRIPS</a><br />
               <a href="swim-with-whale-sharks.html">SNORKEL WITH WHALE SHARKS</a><br />
             </span>
-<!-- InstanceBeginEditable name="SideBarAds" -->
-<!-- InstanceEndEditable -->            
+<!-- TemplateBeginEditable name="SideBarAds" -->
+<!-- TemplateEndEditable -->            
           </div>
 				</div>
 			</div>
@@ -184,9 +182,10 @@
         <div class="footer-1 footer-col">
           <h3>Info</h3>
          	<div><a href="https://cthulhudivers.com/">Home</a></div>
-         	<div><a href="certified-scuba-diving-cancun.html">Certified Divers</a></div>
-          <div><a href="padi-diving-courses-cancun.html">Scuba Courses</a></div>
-          <div><a href="contact-us.html">Contact</a></div>
+         	<div><a href="../certified-scuba-diving-cancun.html">Certified Divers</a></div>
+          <div><a href="../padi-diving-courses-cancun.html">Scuba Courses</a></div>
+          <div><a href="../bubble-blog/cancun-best-dive-sites-for-beginners-and-the-refresher-course.html">Bubble Blog</a></div>
+          <div><a href="../contact-us.html">Contact</a></div>
         </div>
                 
 				<div class="footer-2 footer-col" align="center">
@@ -216,4 +215,4 @@
 <!-- End Document
 ================================================== -->
 </body>
-<!-- InstanceEnd --></html>
+</html>
